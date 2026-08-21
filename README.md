@@ -6,4 +6,4 @@ Tema: Mantenimiento preventivo del hardware
 
 Fecha: 21/08/26
 
-Descripción:
+Descripción: en este proyecto se trabajarán todos los aspectos sobre el mantenimiento preventivo del hardware
